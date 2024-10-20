@@ -84,6 +84,9 @@ A simple but efficient chatbot designed to answer basic queries about first aid 
 
 The chatbot is basically fed with some general intents and the random module is used.
 
+# NGO finder
+
+
 # Satellite imaging using QGIS
 The analysis performed here are:
 1. Heatmap analyis for population density.
