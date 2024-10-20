@@ -8,7 +8,7 @@ GeoSense is a disaster prediction and monitoring system, focused on detecting la
   
 * Environmental Analysis: Uses a combination of geographical factors and seismic data to create a comprehensive risk assessment.
   
-* Data Output: Provides detailed output tables with information like location, timestamp, latitude, longitude, depth, tilt, magnitude, temperature, humidity etc.
+* Self-Built Dataset: Uses detailed output tables with information like location, timestamp, latitude, longitude, depth, tilt, magnitude, temperature, humidity etc for prediction.
   
 * Scalability: Can be adapted to various regions prone to natural disasters
   
