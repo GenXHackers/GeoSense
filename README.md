@@ -5,7 +5,7 @@ Geosense is a disaster prediction and monitoring system, focused on detecting la
 
 # User Interface
 
-![GeoSense Image](images/geosense_UI.jpeg) ![GeoSense Image](images/geosense_UI2.jpg) 
+![GeoSense Image](images/geosense_UI.jpeg) ![GeoSense Image](images/geosense_UI2.jpeg) 
 
 # The Prediction Phase
 # Features
