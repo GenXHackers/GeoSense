@@ -86,6 +86,7 @@ The chatbot is basically fed with some general intents and the random module is 
 
 # NGO finder
 
+![GeoSense Image](images/NGO_finder.jpeg) 
 
 # Satellite imaging using QGIS
 The analysis performed here are:
