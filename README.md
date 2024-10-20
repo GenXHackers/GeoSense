@@ -75,7 +75,7 @@ To manage the aftermath of the disaster, we have incorporated 3 strategies:
 3. Government Support.
 
 # Medical Chatbot
-A simple but efficient chatbot designed to answer basic queries about first aid and related health issues. When given a particular location, the chatbot will first identify the coordinates (lat/long) of the location. Then it will find the nearest bloodbank, hospital, hotel, pharmacy, food store rations and any other safe landmark nearby so that the people can leverage it to their requirements.
+A simple but efficient chatbot designed to answer basic queries about first aid and related health issues. When given a particular location, the chatbot will first identify the coordinates (latitude and longitude) of the location. Then it will find the nearest bloodbank, hospital, hotel, pharmacy, food store rations and any other safe landmark nearby so that the people can leverage it to their requirements.
 
 The chatbot is basically fed with some general intents and the random module is used.
 
