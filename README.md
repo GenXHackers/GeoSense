@@ -11,17 +11,17 @@ The below below clearly depicts the process flow involved in Geosense.
 # Tech Stack Used
 The tech stack used to build the app is as follows:
 
-The Application:
+<u>The Application:</u>
 
 * Google Firebase - To store and manage NGO data, ensuring efficient access and scalability.
 * React and Capacitor - provides a powerful and flexible environment forbuilding and testing cross-platform apps.
 
-Governement Organizations involved:
+<u>Governement Organizations involved:</u>
 
 * QGIS - used to create, edit, visualize, analyze, and publish geospatial information.
 * NGO DARPAN - a government platform listing over 100,000 active NGOs across India.
 
-Software:
+<u>Software:</u>
 * Numpy - NumPy is a powerful Python library used for numerical computing.
 * Pandas - A powerful Python library for data manipulation and analysis, providing data structures like DataFrames for easy handling of structured data.
 * Requests - A simple and elegant HTTP library for Python, designed to make sending HTTP requests easy and user-friendly, allowing seamless integration with web APIs.
