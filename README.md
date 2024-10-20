@@ -5,9 +5,13 @@ GeoSense is a disaster prediction and monitoring system, focused on detecting la
 
 # Features
 * Real-time Data Collection: Gathers live data such as rainfall, topography, and slope to detect potential landslide risks.
+  
 * Environmental Analysis: Uses a combination of geographical factors and seismic data to create a comprehensive risk assessment.
-* Data Output: Provides detailed output tables with information like location, timestamp, latitude, longitude, depth, tilt, and magnitude.
-* Scalability: Can be adapted to various regions prone to natural disasters.
+  
+* Data Output: Provides detailed output tables with information like location, timestamp, latitude, longitude, depth, tilt, magnitude, temperature, humidity etc.
+  
+* Scalability: Can be adapted to various regions prone to natural disasters
+  
 * Medical CHATBOT: Answers queries related to first aid and uses QGIS to give nearest hospital, blood bank locations.
 
 # Process Flowchart
