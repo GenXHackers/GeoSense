@@ -49,6 +49,23 @@ This dataset contains the information of more than 560+ locations with latitude 
 [Download the Dataset](dataset/Geosense_Dataset.xlsx)
 
 # The Preparation phase
+When a disaster is predicted, the app does the following:
+1. Alerts nearby NGOs using data from NGO DARPAN.
+2. Uses AI agents doctors and keeps them on standby. The agents also books train tickets to a nearby safe location.
+3. Notifies the government and concerned ministries to provide relief fund and compensation and ask for evacuation help.
+4. Classifies the zone as a 'RED ZONE' and uses basic algorithms to find the shortest and safest distance to a 'GREEN ZONE' (Safe zone).
+
+# Algorithms used
+1. Dijkstra's Algorithm : Calculates the shortest distance between the red zone and green zone.
+2. A-Star Algorithm : A popular pathfinding and graph traversal algorithm that efficiently finds the shortest path from a start node to a target node by using heuristics.
+
+# Google Maps API
+After creating an API key, Google Maps APi was accessible. Using it we kept a source and a destination node to calculate the time to reach.
+
+![GeoSense Map](images/time_map.jpg)   
+
+We were also able to achieve directions
+
 
 
 
