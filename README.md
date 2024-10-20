@@ -10,7 +10,7 @@ GeoSense is a disaster prediction and monitoring system, focused on detecting la
   
 * Self-Built Dataset: Uses detailed output tables with information like location, timestamp, latitude, longitude, depth, tilt, magnitude, temperature, humidity etc for prediction.
   
-* Scalability: Can be adapted to various regions prone to natural disasters
+* Scalability: Can be adapted to various regions prone to natural disasters.
   
 * Medical CHATBOT: Answers queries related to first aid and uses QGIS to give nearest hospital, blood bank locations.
 
