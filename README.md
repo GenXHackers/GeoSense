@@ -66,6 +66,9 @@ After creating an API key, Google Maps APi was accessible. Using it we kept a so
 
 We were also able to achieve directions
 
+![GeoSense Map](images/directions_map.jpg)   
+
+
 
 
 
