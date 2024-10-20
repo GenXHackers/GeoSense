@@ -5,6 +5,8 @@ Geosense is a disaster prediction and monitoring system, focused on detecting la
 
 # User Interface
 
+![GeoSense Map](images/geosense_UI.jpg) 
+
 # The Prediction Phase
 # Features
 * Real-time Data Collection: Gathers live data such as rainfall, topography, and slope to detect potential landslide risks.
