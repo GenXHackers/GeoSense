@@ -95,6 +95,8 @@ In a more detailed version, satellite imaging also performs these unique feature
   
 * Terrain Stability Analysis.
 
+# Conclusion
+Our solution-Geosense, provides a quick and efficient way to predict landslides well in advance. Due to this, Geosense minimizes loss of life and property. By leveraging Google Maps and QGIS, we were successfully able to integrate relief features.
 
 
 
