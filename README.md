@@ -60,11 +60,11 @@ When a disaster is predicted, the app does the following:
 2. A-Star Algorithm : A popular pathfinding and graph traversal algorithm that efficiently finds the shortest path from a start node to a target node by using heuristics.
 
 # Google Maps API
-After creating an API key, Google Maps APi was accessible. Using it we kept a source and a destination node to calculate the time to reach.
+After creating an API key, Google Maps APi was accessible. Using it we kept a source and a destination node to calculate the time to reach. An interactive map as a html file was also downloaded in our colab file locally.
 
 ![GeoSense Map](images/time_map.jpg)   
 
-We were also able to achieve directions
+We were also able to achieve directions for the destination.
 
 ![GeoSense Map](images/directions_map.jpg)   
 
