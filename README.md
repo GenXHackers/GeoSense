@@ -41,7 +41,7 @@ Software:
 * Requests - A simple and elegant HTTP library for Python, designed to make sending HTTP requests easy and user-friendly, allowing seamless integration with web APIs.
 * Mapbox and Google Maps API  - A suite of APIs that enables developers to integrate Google Maps services into their applications, offering features like geolocation,directions, and places information for enhanced location-based experiences.
 
-![GeoSense Techstack](images/techstack.jpg)
+![GeoSense Techstack](images/geosense_techstack.jpg)
 
 # Dataset used (SELF-BUILT)
 This dataset contains the information of more than 560+ locations with latitude ad longitude specified. It also contains specific features of the land like tilt angle, magnitude, temperature, humidity, soil moisture, which effectively serves as a good dataset for landslide prediction analysis.
