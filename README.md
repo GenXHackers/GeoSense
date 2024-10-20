@@ -41,6 +41,12 @@ Software:
 ![GeoSense Techstack](images/techstack.jpg)
 
 # Dataset used (SELF-BUILT)
+This dataset contains the information of more than 560+ locations with latitude ad longitude specified. It also contains specific features of the land like tilt angle, magnitude, temperature, humidity, soil moisture, which effectively serves as a good dataset for landslide prediction analysis.
+
+[Download the Dataset](dataset/dataset.xlsx)
+
+
+# Dataset used (SELF-BUILT)
 
 
  
