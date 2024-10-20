@@ -6,6 +6,6 @@ GeoSense is a disaster prediction and monitoring system, focused on detecting la
 # Process Flowchart
 The below below clearly depicts the process flow involved in Geosense.
 
-![GeoSense Flowchart](images/geosense_flowchart.jpeg)
+![GeoSense Flowchart](images/geosense_flowchart.jpg)
 
 
