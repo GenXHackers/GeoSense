@@ -48,6 +48,9 @@ This dataset contains the information of more than 560+ locations with latitude 
 
 [Download the Dataset](dataset/Geosense_Dataset.xlsx)
 
+# Prediction Analysis Model
+The dataset was first fed into the model. Using the RandomForest Classifier algorithm, we trained the mountaineous terrain regions of the world. The analysis model returned an accuracy of 81%.
+
 # The Preparation phase
 When a disaster is predicted, the app does the following:
 1. Alerts nearby NGOs using data from NGO DARPAN.
