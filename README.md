@@ -1,8 +1,9 @@
 # GeoSense
 GeoSense is a disaster prediction and monitoring system, focused on detecting landslides by analyzing various environmental factors. It utilizes real-time data such as rainfall, topography, slope, and seismic activity to provide accurate early warnings and insights into landslide-prone regions. It also helps in relief measures using satellite imaging, a chatbot for answering queries and government support.
 
-![GeoSense Logo](images/geosense_logo.jpeg)
+![GeoSense Logo](images/geosense_logo.jpeg) 
 
+# The Prediction Phase
 # Features
 * Real-time Data Collection: Gathers live data such as rainfall, topography, and slope to detect potential landslide risks.
   
@@ -13,6 +14,8 @@ GeoSense is a disaster prediction and monitoring system, focused on detecting la
 * Scalability: Can be adapted to various regions prone to natural disasters.
   
 * Medical CHATBOT: Answers queries related to first aid and uses QGIS to give nearest hospital, blood bank locations.
+
+* Predictive analysis ML model: 
 
 # Process Flowchart
 The below below clearly depicts the process flow involved in Geosense.
@@ -45,8 +48,9 @@ This dataset contains the information of more than 560+ locations with latitude 
 
 [Download the Dataset](dataset/Geosense_Dataset.xlsx)
 
+# The Preparation phase
 
-# Dataset used (SELF-BUILT)
+
 
 
  
