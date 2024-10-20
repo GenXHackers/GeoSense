@@ -68,6 +68,33 @@ We were also able to achieve directions for the destination.
 
 ![GeoSense Map](images/directions_map.jpg)   
 
+# The Relief Phase
+To manage the aftermath of the disaster, we have incorporated 3 strategies:
+1. Medical ChatBot.
+2. Satellite Imaging using QGIS.
+3. Government Support.
+
+# Medical Chatbot
+A simple but efficient chatbot designed to answer basic queries about first aid and related health issues. When given a particular location, the chatbot will first identify the coordinates (lat/long) of the location. Then it will find the nearest bloodbank, hospital, hotel, pharmacy, food store rations and any other safe landmark nearby so that the people can leverage it to their requirements.
+
+The chatbot is basically fed with some general intents and the random module is used.
+
+# Satellite imaging using QGIS
+The analysis performed here are:
+1. Heatmap analyis for population density.
+2. NASA Sentinel data.
+
+In a more detailed version, satellite imaging also performs these unique features:
+* Satellite Imagery Acquisition.
+  
+* Origin-Destination Matrix.
+  
+* Geospatial Data Extraction.
+  
+* Topographic Position Index.
+  
+* Terrain Stability Analysis.
+
 
 
 
