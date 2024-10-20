@@ -87,6 +87,8 @@ A simple but efficient chatbot designed to answer basic queries about first aid 
 The chatbot is basically fed with some general intents and the random module is used.
 It has been trained with a book "The Gale encyclopedia of Medicine" by Jacqueline L. Longe trained by Llama 3.0.
 
+![GeoSense Image](images/Medical_chatbot.jpeg) 
+
 # NGO finder
 
 ![GeoSense Image](images/NGO_finder.jpeg) ![GeoSense Image](images/NGO_finder2.jpeg) 
